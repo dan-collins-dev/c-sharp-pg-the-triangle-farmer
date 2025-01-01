@@ -2,7 +2,7 @@
 
 Challenge from [The C# Player's Guide](https://csharpplayersguide.com/) by RB Whitaker.
 
-Note: Level 8 Challenge
+Note: Level 7 Challenge
 
 ### The Triangle Farmer: 100xp
 - [X] Completed
