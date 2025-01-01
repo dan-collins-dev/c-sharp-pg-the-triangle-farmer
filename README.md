@@ -5,9 +5,9 @@ Challenge from [The C# Player's Guide](https://csharpplayersguide.com/) by RB Wh
 Note: Level 8 Challenge
 
 ### The Triangle Farmer: 100xp
-- [ ] Completed
+- [X] Completed
 
 #### Objectives
 - Write a program that lets you input the triangle's base size and height.
-- Compute the area of the triangle/
+- Compute the area of the triangle.
 - Use `Console.WriteLine()` to display the result.
